@@ -14,10 +14,6 @@ body{
 }
 
 
-
-
-
-
 /* Style for footer section */
  
 .footer{
@@ -33,3 +29,21 @@ font-size: 25px;
 background-color: #f6be3c ;
 border-radius: 20px;
 }
+
+
+/* Media queries  */
+
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 578px) {
+
+#firstPar{
+  margin: auto;
+}
+
+}
+
+ 
+ 
+
